@@ -1,7 +1,7 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.4.0",
-    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.4.0/serio-1.4.0.apk",
-    "releaseNotes":  "Compact headers, and Serio can now update itself from GitHub (Profile → Check for updates).",
+    "versionCode":  3,
+    "versionName":  "1.8.0",
+    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.8.0/serio-1.8.0.apk",
+    "releaseNotes":  "Updates now download in the background with a progress notification and Cancel, a progress card in Settings, and an auto-check switch.",
     "forceUpdate":  false
 }
