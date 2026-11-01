@@ -1,7 +1,7 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.8.0",
-    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.8.0/serio-1.8.0.apk",
-    "releaseNotes":  "Updates now download in the background with a progress notification and Cancel, a progress card in Settings, and an auto-check switch.",
+    "versionCode":  4,
+    "versionName":  "1.8.1",
+    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.8.1/serio-1.8.1.apk",
+    "releaseNotes":  "New app icon: a monitor with two facing triangles.",
     "forceUpdate":  false
 }
