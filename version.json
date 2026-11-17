@@ -1,7 +1,7 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.8.1",
-    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.8.1/serio-1.8.1.apk",
-    "releaseNotes":  "New app icon: a monitor with two facing triangles.",
+    "versionCode":  5,
+    "versionName":  "1.9.0",
+    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.9.0/serio-1.9.0.apk",
+    "releaseNotes":  "Simkl sync keeps real watch dates, sends un-watches and imports titles from Simkl; safer backups (also saved to Downloads/Serio); faster background sync.",
     "forceUpdate":  false
 }
