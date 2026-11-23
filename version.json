@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.9.0",
-    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.9.0/serio-1.9.0.apk",
-    "releaseNotes":  "Simkl sync keeps real watch dates, sends un-watches and imports titles from Simkl; safer backups (also saved to Downloads/Serio); faster background sync.",
+    "versionCode":  6,
+    "versionName":  "1.10.0",
+    "apkUrl":  "https://github.com/mixOsApps/serio-releases/releases/download/v1.10.0/serio-1.10.0.apk",
+    "releaseNotes":  "Updates show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
     "forceUpdate":  false
 }
